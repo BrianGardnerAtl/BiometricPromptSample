@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BiometricPromptUpdate</string>
+    <string name="authenticate_button">Authenticate</string>
+    <string name="authentication_title">Login to continue</string>
+    <string name="authenticate_compat_button">Authenticate Compat</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="no_biometrics">No biometrics available</string>
+    <string name="pretty_authenticate_button">Pretty prompt</string>
+    <string name="authentication_subtitle">More information</string>
+    <string name="authentication_description">Even more information!</string>
+    <string name="first_time_flow_button">First time flow</string>
+    <string name="main_flow_button">Main flow</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="enable_biometric_title">Enable Biometric Log In?</string>
+    <string name="enable_biometric_message">Your device is capable of biometric authentication, would you like to use this to log in?</string>
+    <string name="authenticated_text">Successfully authenticated</string>
+    <string name="confirm_biometric_title">Confirm Biometrics</string>
+    <string name="confirm_biometric_message">Please confirm your biometrics in order to use them to log in.</string>
+    <string name="biometric_confirmation_failed">Failed to confirm biometrics, try again later</string>
+    <string name="biometric_error">Unrecognized biometrics, please log in with username and password</string>
+    <string name="biometric_authentication_title">Enter Biometrics</string>
+    <string name="biometric_authentication_description">Please enter your biometrics to authenticate.</string>
+</resources>
